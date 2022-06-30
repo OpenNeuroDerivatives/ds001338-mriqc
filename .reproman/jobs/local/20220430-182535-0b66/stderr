@@ -1,1 +1,10 @@
-../../../../.git/annex/objects/Q2/zw/MD5E-s445--b565d082ce73e5027651dc460deabcc8/MD5E-s445--b565d082ce73e5027651dc460deabcc8
+Warning: Permanently added 'c137-004' (ED25519) to the list of known hosts.
+WARNING (05/01/22 15:58:54): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292367.hostlist.fE0f68L7 to get hosts
+starting job on c137-004
+starting job on c137-064
+starting job on c137-131
+starting job on c190-202
+starting job on c191-161
+slurmstepd: error: *** JOB 4292367 ON c137-004 CANCELLED AT 2022-05-01T17:41:24 ***
+Terminated
